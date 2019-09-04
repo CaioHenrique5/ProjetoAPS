@@ -1,1 +1,11 @@
 /FinalizarProcesso.class
+/Escalonador.class
+/FachadaEscalonador.class
+/TipoEscalonador.class
+/EscalonadorPrioridade.class
+/EscalonadorRoundRobin.class
+/StatusEscalonador.class
+/EscalonadorException.class
+/AddProcesso.class
+/BloquearProcesso.class
+
