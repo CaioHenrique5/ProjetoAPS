@@ -1,3 +1,4 @@
+/FinalizarProcesso.class
 /Escalonador.class
 /FachadaEscalonador.class
 /TipoEscalonador.class
@@ -7,3 +8,4 @@
 /EscalonadorException.class
 /AddProcesso.class
 /BloquearProcesso.class
+
