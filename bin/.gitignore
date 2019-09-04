@@ -5,3 +5,5 @@
 /EscalonadorRoundRobin.class
 /StatusEscalonador.class
 /EscalonadorException.class
+/AddProcesso.class
+/BloquearProcesso.class
